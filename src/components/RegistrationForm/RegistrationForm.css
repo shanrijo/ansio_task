@@ -1,0 +1,25 @@
+.loginText {
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+.main_div{
+width: 343px;
+    /* display: grid; */
+    /* vertical-align: middle; */
+    /* height: 115px; */
+    /* margin-top: 19px; */
+    top: 100px;
+    display: grid;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.bg-primary {
+    background-color: #525558!important;
+}
